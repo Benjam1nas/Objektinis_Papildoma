@@ -1,0 +1,5 @@
+C:/Users/benas/OneDrive/Desktop/Darbai/Obj/Papildoma_Uzd/out/build/x64-release/CMakeFiles/edit_cache.dir
+C:/Users/benas/OneDrive/Desktop/Darbai/Obj/Papildoma_Uzd/out/build/x64-release/CMakeFiles/rebuild_cache.dir
+C:/Users/benas/OneDrive/Desktop/Darbai/Obj/Papildoma_Uzd/out/build/x64-release/Papildoma_Uzd/CMakeFiles/Papildoma_Uzd.dir
+C:/Users/benas/OneDrive/Desktop/Darbai/Obj/Papildoma_Uzd/out/build/x64-release/Papildoma_Uzd/CMakeFiles/edit_cache.dir
+C:/Users/benas/OneDrive/Desktop/Darbai/Obj/Papildoma_Uzd/out/build/x64-release/Papildoma_Uzd/CMakeFiles/rebuild_cache.dir
